@@ -1,0 +1,6 @@
+framework module LWTestSDK {
+  umbrella header "LWTestSDK.h"
+
+  export *
+  module * { export * }
+}
